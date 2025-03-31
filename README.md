@@ -17,3 +17,4 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+3. download model path from here : https://drive.google.com/drive/folders/1DlR4IpHNXegdWPlePPMEc8TZkBM9E-bg?usp=sharing
